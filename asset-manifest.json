@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/liveReactWebsite/static/css/main.27a039a7.chunk.css",
+    "main.js": "/liveReactWebsite/static/js/main.dccd245d.chunk.js",
+    "main.js.map": "/liveReactWebsite/static/js/main.dccd245d.chunk.js.map",
+    "runtime-main.js": "/liveReactWebsite/static/js/runtime-main.d9a3bbb9.js",
+    "runtime-main.js.map": "/liveReactWebsite/static/js/runtime-main.d9a3bbb9.js.map",
+    "static/css/2.61b4cb56.chunk.css": "/liveReactWebsite/static/css/2.61b4cb56.chunk.css",
+    "static/js/2.29a2ff99.chunk.js": "/liveReactWebsite/static/js/2.29a2ff99.chunk.js",
+    "static/js/2.29a2ff99.chunk.js.map": "/liveReactWebsite/static/js/2.29a2ff99.chunk.js.map",
+    "index.html": "/liveReactWebsite/index.html",
+    "static/css/2.61b4cb56.chunk.css.map": "/liveReactWebsite/static/css/2.61b4cb56.chunk.css.map",
+    "static/css/main.27a039a7.chunk.css.map": "/liveReactWebsite/static/css/main.27a039a7.chunk.css.map",
+    "static/js/2.29a2ff99.chunk.js.LICENSE.txt": "/liveReactWebsite/static/js/2.29a2ff99.chunk.js.LICENSE.txt",
+    "static/media/about.1dd21929.jpg": "/liveReactWebsite/static/media/about.1dd21929.jpg",
+    "static/media/android.41b62fa6.jpg": "/liveReactWebsite/static/media/android.41b62fa6.jpg",
+    "static/media/app.d491b82e.jpg": "/liveReactWebsite/static/media/app.d491b82e.jpg",
+    "static/media/digital.45d7868d.png": "/liveReactWebsite/static/media/digital.45d7868d.png",
+    "static/media/home.0c95c6ab.jpg": "/liveReactWebsite/static/media/home.0c95c6ab.jpg",
+    "static/media/marketing.910930a1.jpeg": "/liveReactWebsite/static/media/marketing.910930a1.jpeg",
+    "static/media/software.0d5d023c.jpg": "/liveReactWebsite/static/media/software.0d5d023c.jpg",
+    "static/media/web.c0323ba7.jpeg": "/liveReactWebsite/static/media/web.c0323ba7.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d9a3bbb9.js",
+    "static/css/2.61b4cb56.chunk.css",
+    "static/js/2.29a2ff99.chunk.js",
+    "static/css/main.27a039a7.chunk.css",
+    "static/js/main.dccd245d.chunk.js"
+  ]
+}
